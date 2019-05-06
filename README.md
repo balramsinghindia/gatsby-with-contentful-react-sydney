@@ -1,4 +1,10 @@
 # gatsby-contentful-starter
+This starter kit was used in React Sydney meetup on 6th May and is added here for refernce.
+
+Talk link video will be added soon here.
+
+
+# gatsby-contentful-starter
 
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 
